@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="../FoodOrderingApp/FoodOrderingApp.csproj" />
+  <Project Path="FoodOrderingAPI/FoodOrderingAPI.csproj" />
+</Solution>
