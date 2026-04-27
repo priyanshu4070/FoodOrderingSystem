@@ -72,7 +72,7 @@ dotnet run
 
 Swagger will open at:
 
-https://localhost:xxxx/swagger
+https://localhost:5095/swagger
 4. Run Console App
 Set Console project as startup OR run separately
 Login → get JWT → perform operations
